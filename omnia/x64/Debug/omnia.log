@@ -1,0 +1,114 @@
+﻿  Source.cpp
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(2,7): error C2143: syntax error: missing ';' before '<'
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(2,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(3,14): error C2143: syntax error: missing ';' before '<'
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(3,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(4,4): error C2143: syntax error: missing ';' before '<'
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(4,4): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(5,6): error C2143: syntax error: missing ';' before '<'
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(5,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(6,6): error C2143: syntax error: missing ';' before '<'
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(6,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(6,1): error C2086: 'int queue': redefinition
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(5): message : see declaration of 'queue'
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(8,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(8,7): error C2146: syntax error: missing ';' before identifier 'u'
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(9,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(9,9): error C2146: syntax error: missing ';' before identifier 'myfile'
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(16,6): error C2182: 'Register': this use of 'void' is not valid
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(16,15): error C2065: 'string': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(16,22): error C2146: syntax error: missing ')' before identifier 'user_name'
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(17,6): error C2182: 'Login': this use of 'void' is not valid
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(17,12): error C2065: 'string': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(17,20): error C2065: 'string': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(17,26): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(17,11): message : The initializer contains too many elements
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(18,6): error C2182: 'Password_validation': this use of 'void' is not valid
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(18,26): error C2065: 'string': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(34,6): error C2182: 'display_records_filterd': this use of 'void' is not valid
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(34,30): error C2065: 'string': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(34,37): error C2146: syntax error: missing ')' before identifier 'num_doses'
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(47,5): error C2064: term does not evaluate to a function taking 8 arguments
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(48,5): error C2064: term does not evaluate to a function taking 8 arguments
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(49,5): error C2064: term does not evaluate to a function taking 8 arguments
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(50,5): error C2064: term does not evaluate to a function taking 8 arguments
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(51,5): error C2064: term does not evaluate to a function taking 8 arguments
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(52,5): error C2064: term does not evaluate to a function taking 8 arguments
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(53,5): error C2064: term does not evaluate to a function taking 8 arguments
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(54,5): error C2064: term does not evaluate to a function taking 8 arguments
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(55,5): error C2064: term does not evaluate to a function taking 8 arguments
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(58,5): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(63,5): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(66,5): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(67,5): error C2064: term does not evaluate to a function taking 2 arguments
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(68,5): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(74,5): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(74,27): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(81,5): error C2065: 'string': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(81,12): error C2146: syntax error: missing ';' before identifier 'x'
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(81,12): error C2065: 'x': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(82,5): error C2065: 'string': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(82,12): error C2146: syntax error: missing ';' before identifier 'id'
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(82,12): error C2065: 'id': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(83,5): error C2065: 'string': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(83,12): error C2146: syntax error: missing ';' before identifier 'password'
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(83,12): error C2065: 'password': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(84,5): error C2065: 'string': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(84,12): error C2146: syntax error: missing ';' before identifier 'username'
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(84,12): error C2065: 'username': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(85,5): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(85,13): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(86,5): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(86,92): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(87,5): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(87,93): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(88,5): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(88,92): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(89,5): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(89,13): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(90,5): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(90,13): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(91,5): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(91,50): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(92,5): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(92,46): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(93,5): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(93,36): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(94,5): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(95,5): error C2065: 'cin': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(101,9): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(101,69): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(102,9): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(102,77): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(103,9): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(104,9): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(104,54): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(105,9): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(105,50): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(106,9): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(106,40): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(107,9): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(108,9): error C3861: 'system': identifier not found
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(109,15): error C2065: 'id': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(109,19): error C2065: 'password': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(110,9): error C3861: 'system': identifier not found
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(116,9): error C3861: 'system': identifier not found
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(117,9): error C3861: 'Registeration': identifier not found
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(120,9): error C3861: 'system': identifier not found
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(121,9): error C3861: 'system': identifier not found
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(129,9): error C3861: 'system': identifier not found
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(130,9): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(130,96): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(131,9): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(131,95): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(132,9): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(132,83): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(133,9): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(133,96): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(134,9): error C3861: 'exit': identifier not found
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(139,9): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(139,39): error C2065: 'endl': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(153,5): error C2065: 'cout': undeclared identifier
+C:\Users\Moaaz Osama\Desktop\hwal3 feky ya omnia\Omnia-ds-project - Copy - Copy\omnia\Source.cpp(153,10): fatal  error C1003: error count exceeds 100; stopping compilation
+  Users.cpp
+  Generating Code...
